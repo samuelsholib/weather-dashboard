@@ -1,0 +1,27 @@
+body {
+    position: relative;
+    padding-right: 10px;
+    padding-left: 10px;
+    line-height: 20px;
+    vertical-align: top;
+    flex-direction: column;
+    background-color: gray;
+    color: blue;
+    align-items: center;
+}
+
+body .jumbotron {
+    background-color: gray;
+    color: chartreuse;
+}
+
+body .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: aliceblue;
+    display: inline-block;
+    font-size: 16px;
+}
