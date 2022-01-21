@@ -1,5 +1,5 @@
 # server-side-APIs
-This is a repo where you could be able to see a weather forecast of some of the major cities in the world.
+This is an app where you could be able to see a weather forecast of some of the major cities in the world.
 It has a weather dashboard with form inputs
 When you click on the search button and search for a city,
 Then you will be  presented with current and future conditions for that city and that city is added to the search history.
