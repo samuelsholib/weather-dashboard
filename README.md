@@ -58,4 +58,6 @@ The following images shows the web application's appearance and functionality:
 ![pic-four](pictures/Togo.png)
 
 ## Live-Deployed-App
-- [Click-here]()
+- [Click-here](https://samuelsholib.github.io/weather-dashboard/)
+
+to see the app live
