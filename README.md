@@ -47,10 +47,10 @@ THEN I am again presented with current and future conditions for that city
 
 The following images shows the web application's appearance and functionality:
 
-- [pic-one](pictures/Chicago.png)
+![pic-one](pictures/Chicago.png)
 
-- [pic-two](pictures/Hawai.png)
+![pic-two](pictures/Hawai.png)
 
-- [pic-three](pictures/Jinka.png)
+![pic-three](pictures/Jinka.png)
 
-- [pic-four](pictures/Togo.png)
+![pic-four](pictures/Togo.png)
