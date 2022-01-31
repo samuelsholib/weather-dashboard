@@ -8,7 +8,7 @@
 
 - [Acceptance Criteria](#Acceptance-Criteria)
 
-- [Mock-Up](Mock-Up)
+- [Mock-Up](#Mock-Up)
 
 
 ## ToDo
