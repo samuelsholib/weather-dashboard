@@ -1,4 +1,4 @@
-# server-side-apis
+# server-side-API
 This is an app where you could be able to see a weather forecast of cities in the world.
 It has a weather dashboard with form inputs
 When you click on the search button and search for a city,
