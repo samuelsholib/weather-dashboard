@@ -48,6 +48,7 @@ THEN I am again presented with current and future conditions for that city
 ## Mock-Up
 
 The following images shows the web application's appearance and functionality:
+I Used ```https://source.unsplash.com/1600x900/?nature,landscape``` for my applications background. Threfore everytime you refresh the app, you will get a different background!!!
 
 ![pic-one](pictures/Chicago.png)
 
